@@ -18,8 +18,6 @@ set incsearch
 set hlsearch
 " make searches case-sensitive only if they contain upper-case characters
 set ignorecase smartcase
-" highlight current line
-set cursorline
 set cmdheight=1
 set switchbuf=useopen
 " Always show tab bar at the top
